@@ -7,3 +7,6 @@ To check if node is installed successfully ,its version can be checked.To do thi
 
 Steps : git clone https://github.com/RitikaGSharma/WillwareAssessment ,
 npm init playwright@latest , npx playwright test , npx allure generate ./my-allure-results --clean , npx allure open ./allure-report
+
+
+Note: I would need time to integrate steps with feature file.
